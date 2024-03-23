@@ -1,0 +1,10 @@
+name: ArmorEquipEvent
+main: com.codingforcookies.armorequip.Main
+version: '${project.version}'
+authors: [CodingForCookies, GavvyDizzle]
+api-version: '1.20'
+commands:
+  armorEquipEvent:
+    description: Admin commands for ArmorEquipEvent
+    permission: armorequipevent.admin
+    permission-message: Insufficient permission
